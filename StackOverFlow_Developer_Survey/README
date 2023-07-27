@@ -1,1 +1,2 @@
-
+#The Case_study.ipynb is the data analysis of stackoverflow developer survey dataset (survey_results_public.csv) which is published publicly.
+#The other two datasets of countries.csv and countries-languages.csv are used as additional datasets for main analysis.
